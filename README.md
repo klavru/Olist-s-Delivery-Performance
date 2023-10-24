@@ -149,7 +149,8 @@ In our comprehensive assessment of Olist's delivery performance, it's essential 
 
 One intriguing revelation is related to specific product categories, notably "Office Furniture," which stands out as one of the top revenue-generating categories on the platform. However, its performance in terms of on-time delivery and shipping is comparatively lower when compared to other top-performing products.
 
-<img width="851" alt="image" src="https://github.com/klavru/Olist-s-Delivery-Performance/assets/128393456/a3ed54a1-45e1-45e3-b1f1-6ac70ba20af4">
+<img width="862" alt="image" src="https://github.com/klavru/Olist-s-Delivery-Performance/assets/128393456/19568972-b419-497e-9ae5-a3c4fffca9d3">
+
 
 
 **On-Time Shipping**: For "Office Furniture," only 83% of orders were shipped on time, demonstrating a notable discrepancy in comparison to other product categories.
