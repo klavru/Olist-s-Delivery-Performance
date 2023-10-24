@@ -221,3 +221,8 @@ In our comprehensive analysis of Olist's delivery performance, we've identified 
 - **Shipping Delays**: Investigate the causes of shipping delays, especially in top revenue categories, and develop strategies to improve shipping times, with a particular focus on furniture-related categories.
 
 Implementing these recommendations will bolster Olist's delivery performance, ensuring better customer experiences and supporting revenue growth.
+
+
+Here my dashboard:
+
+https://public.tableau.com/app/profile/karolina.lavrukaityte/viz/OlistDeliveryPerformancev3/PaymentAnalystDasboard
